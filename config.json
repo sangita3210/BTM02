@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.moodle.bharatmentors",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
@@ -74,8 +74,8 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "customurlscheme": "bharatmentors",
+    "siteurl": "http://www.bharatmentors.com",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
