@@ -1649,7 +1649,7 @@
     "core.login.webservicesnotenabled": "Web services are not enabled in your site. Please contact your site administrator if you think they should be enabled.",
     "core.lostconnection": "Your authentication token is invalid or has expired. You will have to reconnect to the site.",
     "core.mainmenu.appsettings": "App settings",
-    "core.mainmenu.changesite": "Change site",
+    "core.mainmenu.changesite": "Login details",
     "core.mainmenu.help": "Help",
     "core.mainmenu.logout": "Log out",
     "core.mainmenu.website": "Website",
