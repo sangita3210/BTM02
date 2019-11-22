@@ -836,7 +836,7 @@
     "core.login.invalidtime": "Waktu tidak valid.",
     "core.login.invalidvaluemax": "Maksimal nilai adalah {{$a}}",
     "core.login.invalidvaluemin": "Minimum nilai adalah {{$a}}",
-    "core.login.localmobileunexpectedresponse": "Fitur Tambahan Moodle Mobile mengembalikan respons yang tak terduga, Anda akan diautentikasi menggunakan layanan Mobile standar.",
+    "core.login.localmobileunexpectedresponse": "Fitur Tambahan Bharat Mentors Mobile mengembalikan respons yang tak terduga, Anda akan diautentikasi menggunakan layanan Mobile standar.",
     "core.login.loggedoutssodescription": "Anda harus mengautentikasi ulang. Anda harus log in ke situs di sebuah jendela browser.",
     "core.login.login": "Masuk",
     "core.login.loginbutton": "Masuk",

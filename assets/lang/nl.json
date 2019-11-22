@@ -1595,7 +1595,7 @@
     "core.login.legacymoodleversion": "Je probeert verbinding te maken met een niet-ondersteunde Moodle-versie. Download de Moodle Classic-app om verbinding te maken met deze site.",
     "core.login.legacymoodleversiondesktop": "Je probeert verbinding te maken met <b>{{$a}}</b>.<br><br>Deze site gebruikt een oude, niet-ondersteunde Moodle-versie die niet werkt met deze Moodle Desktop App.<br><br>Als dit jouw site is, neem dan contact op met een lokale Moodle-partner om hulp te krijgen bij het upgraden van de site.<br><br>Zie <a href=\"https://moodle.com/contact\">de contactpagina</a> om een aanvraag te sturen of om hulp te vragen.",
     "core.login.legacymoodleversiondesktopdownloadold": "<br><br>Als alternatief kun je nog steeds toegang krijgen tot de site door het gebruiken van een niet meer ondersteunde versie van de app die je kunt downloaden vanaf hier.",
-    "core.login.localmobileunexpectedresponse": "Moodle Mobile Additional Features Check gaf een onverwacht antwoord. Je zult aanmelden via de standaard Mobile service.",
+    "core.login.localmobileunexpectedresponse": "Bharat Mentors Mobile Additional Features Check gaf een onverwacht antwoord. Je zult aanmelden via de standaard Mobile service.",
     "core.login.loggedoutssodescription": "Je moet opnieuw aanmelden. Je moet aanmelden met een browservenster.",
     "core.login.login": "Login",
     "core.login.loginbutton": "Inloggen",

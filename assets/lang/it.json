@@ -1463,7 +1463,7 @@
     "core.login.invalidurl": "La URL specificata non è valida",
     "core.login.invalidvaluemax": "Il valore massimo è {{$a}}",
     "core.login.invalidvaluemin": "Il valore minimo è {{$a}}",
-    "core.login.localmobileunexpectedresponse": "Il controllo delle Moodle Mobile Additional Feature ha restituito una risposta inattesa, sarai autenticato tramite i servizi Mobile standard.",
+    "core.login.localmobileunexpectedresponse": "Il controllo delle Bharat Mentors Mobile Additional Feature ha restituito una risposta inattesa, sarai autenticato tramite i servizi Mobile standard.",
     "core.login.login": "Login",
     "core.login.loginbutton": "Login",
     "core.login.logininsiterequired": "Devi autenticarti usando una finestra browser",

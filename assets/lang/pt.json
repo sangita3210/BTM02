@@ -1595,7 +1595,7 @@
     "core.login.legacymoodleversion": "Está a tentar ligar-se a uma versão do Moodle não suportada. Por favor, descarregue a aplicação clássica do Moodle para aceder a este site Moodle.",
     "core.login.legacymoodleversiondesktop": "Está a tentar ligar-se a <b>{{$ a}}</b>.<br><br>O site está a usar uma versão desatualizada do Moodle que não funcionará com esta aplicação Moodle.<br><br>Se for o seu site, entre em contacto com o seu parceiro Moodle local para obter assistência e atualizá-lo.<br>br>Consulte a nossa <a href=\"https://moodle.com/contact\">página de contacto</a> para enviar um pedido de assistência.",
     "core.login.legacymoodleversiondesktopdownloadold": "<br><br>Como alternativa, pode aceder a este site usando uma versão não suportada da aplicação que pode ser descarregada aqui.",
-    "core.login.localmobileunexpectedresponse": "Ocorreu um erro inesperado na verificação de Moodle Mobile Additional Features. Será autenticado através do serviço Mobile padrão.",
+    "core.login.localmobileunexpectedresponse": "Ocorreu um erro inesperado na verificação de Bharat Mentors Mobile Additional Features. Será autenticado através do serviço Mobile padrão.",
     "core.login.loggedoutssodescription": "Tem de autenticar-se novamente. A autenticação no site tem de ser numa janela do navegador.",
     "core.login.login": "Entrar",
     "core.login.loginbutton": "Iniciar sessão",

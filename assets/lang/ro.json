@@ -1144,7 +1144,7 @@
     "core.login.invalidmoodleversion": "Versiunea Moodle este invalidă. Versiunea minimă este 2.4",
     "core.login.invalidsite": "Adresa URL este invalidă.",
     "core.login.invalidurl": "URL specificat nevalid",
-    "core.login.localmobileunexpectedresponse": "Verificarea Moodle Mobile Additional Features a returnat un răspuns neașteptat. veți fi autentificat folosind serviciul standard.",
+    "core.login.localmobileunexpectedresponse": "Verificarea Bharat Mentors Mobile Additional Features a returnat un răspuns neașteptat. veți fi autentificat folosind serviciul standard.",
     "core.login.login": "Autentificare",
     "core.login.loginbutton": "Logat!",
     "core.login.logininsiterequired": "Trebuie sa vă logați pe site într-un browser.",
