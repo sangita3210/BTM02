@@ -80,7 +80,8 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    /*"privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",*/
+    "privacypolicy": "https:\/\/www.bharatmentors.com\/local\/pages\/id=28",
+    /*https://www.bharatmentors.com/local/pages/?id=28local*/
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
