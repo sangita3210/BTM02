@@ -179,6 +179,8 @@
 
     <!-- See MOBILE-892 -->
     <preference name="permissions" value="none"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" tools:node="remove" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" tools:node="remove" />
 
     <edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
         <string>We need camera access to take pictures so you can attach them as part of your submissions.</string>
