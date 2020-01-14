@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.bharatmentors"
         versionCode = "37100"
-        android-versionCode="37100"
+        android-versionCode="37101"
         version   = "3.7.1">
     <name>Bharat Mentors</name>
 
